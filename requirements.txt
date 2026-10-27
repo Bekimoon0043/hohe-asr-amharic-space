@@ -1,0 +1,11 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchaudio
+transformers
+huggingface_hub
+gradio
+pyctcdecode
+kenlm
+librosa
+soundfile
+numpy
